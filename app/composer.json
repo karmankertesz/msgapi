@@ -1,0 +1,10 @@
+{
+    "require": {
+		"dmkit/phalcon-jwt-auth" : "dev-master",
+        "phalcon/incubator": "^3.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7",
+        "guzzlehttp/guzzle":"~6.0"
+    }
+}
